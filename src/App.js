@@ -1,5 +1,7 @@
 import './App.css';
 import Header from './Header.js';
+import About from './About.js';
+import Projects from './Projects.js';
 // import SideBar from './SideBar.js';
 // import RecommendedVideos from './RecommendedVideos.js';
 // import SearchPage from './SearchPage.js';
@@ -10,6 +12,8 @@ function App() {
   return ( 
     <div className="app">
       <Header />
+      <About />
+      <Projects />
     </div>
   );
 }

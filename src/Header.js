@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import miguel from './miguelsantiago.jpg';
 // import ReactDOM from 'react-dom';
 //import { BrowserRouter, Link } from 'react-router-dom';
@@ -8,7 +8,6 @@ import GitHubIcon from '@material-ui/icons/GitHub';
 import Avatar from '@material-ui/core/Avatar';
 
 function Header() {
-    const [inputSearch,setInputSearch] = useState('');
 
     return (
         <div className="header">
