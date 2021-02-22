@@ -24,7 +24,7 @@
 
 .header__digital {
     display: flex;
-    align-items: top; 
+    /* align-items: top;  */
     justify-content: center;    
 }
 

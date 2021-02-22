@@ -15,6 +15,9 @@ function Header() {
                 <div>
                     <h1 className="header__title">Miguel Vicente Ortega Santiago</h1>
                 </div>                
+                <div>
+                    <h5>Junior Web Developer Javascript | JQuery | HTML/CSS | Bootstrap | NPM | Angular JS | React | GIT/Github | PHP | SQL</h5>
+                </div>                
                 <div className="header__digital">    
                     <a href="https://github.com/migscay/" target="_blank">
                         <i class="fab fa-github fa-5x"></i>
@@ -23,10 +26,10 @@ function Header() {
                         <i class="fab fa-linkedin-in fa-5x"></i>
                     </a>
                     <a href={resume} target="_blank">
-                    <i class="far fa-file-pdf fa-5x"></i>
+                    <i class="fas fa-file-pdf fa-5x"></i>
                     </a>
-                    <a href="mailto:santiagomiguelvicente@gmail.com">
-                    <i class="fas fa-envelope-square fa-5x"></i>
+                    <a href="MailTo:santiagomiguelvicente@gmail.com" target="_blank">
+                        <i class="fas fa-envelope-square fa-5x"></i>
                     </a>                    
                 </div>
             </div>
