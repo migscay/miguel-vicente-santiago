@@ -18,7 +18,7 @@ function Header() {
             </div>
             <div className="header__digital">    
                 <i class="fab fa-github fa-5x"></i>
-                <a href="www.linkedin.com/in/miguel-vicente-ortega-santiago" target="_blank">
+                <a href="https://www.linkedin.com/in/miguel-vicente-ortega-santiago/" target="_blank">
                 <i class="fab fa-linkedin-in fa-5x"></i>
                 </a>
             </div>
