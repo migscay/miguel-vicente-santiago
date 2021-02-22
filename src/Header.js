@@ -17,7 +17,9 @@ function Header() {
                 <h1 >Miguel Vicente Ortega Santiago</h1>
             </div>
             <div className="header__digital">    
-                <i class="fab fa-github fa-5x"></i>
+                <a href="https://github.com/migscay/" target="_blank">
+                    <i class="fab fa-github fa-5x"></i>
+                </a>
                 <a href="https://www.linkedin.com/in/miguel-vicente-ortega-santiago/" target="_blank">
                 <i class="fab fa-linkedin-in fa-5x"></i>
                 </a>
