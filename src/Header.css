@@ -9,7 +9,7 @@
 }
 
 .header__title {
-    font-size: 38px;
+    font-size: 68px;
 }
 
 .header__logo {
@@ -18,10 +18,9 @@
     line-height: 16px;
 }
 
-.fab {
+.fab , .far, .fas{
     padding-left: 30px;
 }
-
 
 .header__digital {
     display: flex;
@@ -29,59 +28,3 @@
     justify-content: center;    
 }
 
-.header__left {
-    display: flex;
-    align-items: center;     
-}
-
-.header__center {
-    display: flex;
-    align-items: center; 
-    flex: 0.6;
-}
-
-.header__searchInput {
-    display: flex;
-    align-items: center; 
-    border: 1px solid black;
-    flex: 1;
-}
-
-.header__input {
-    border: none;
-    flex: 1;
-}
-.header__search {
-    border-left: 1px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
-    align-items: center;
-    background-color: lightgray;
-}   
-
-.header__mic {
-    padding-left: 20px;
-    border: none;
-    flex: 1\;
-}
-/*
-.header__input {
-    display: flex;
-    width: 40%;
-    align-items: center;
-    border: 1px solid black;
-}
-*/
-/* 
-    target the input element of class header__input
-    flex: 1; means to take up as much space 
-*/
-.header__input > input {
-    flex: 1;
-    border: none;
-}
-
-.header__icons {
-    display: flex;
-    align-items: center; 
-}

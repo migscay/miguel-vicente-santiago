@@ -14,8 +14,8 @@ function About() {
             <div className="about_picture">
                 <img class="about__img" src={miguel} alt="Miguel Santiago"></img>
             </div>
-            <div className="about-paragraph">
-                <p>Experienced Analyst/Programmer with decades of experience. I have recently completed a bootcamp in Web Development.
+            <div className="about__paragraph">
+                <p>Experienced Analyst/Programmer with decades of experience. I have recently completed the Junior Web Development bootcamp by Generation Australia.
 With my knowledge and experience in coding, I can help create effective systems to help business better connect with their customers.</p>
             </div>
         </div>
