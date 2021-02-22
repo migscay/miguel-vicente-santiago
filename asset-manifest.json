@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/miguel-vicente-santiago/static/css/main.2fee1254.chunk.css",
-    "main.js": "/miguel-vicente-santiago/static/js/main.d9d7f1ea.chunk.js",
-    "main.js.map": "/miguel-vicente-santiago/static/js/main.d9d7f1ea.chunk.js.map",
+    "main.css": "/miguel-vicente-santiago/static/css/main.406de0fb.chunk.css",
+    "main.js": "/miguel-vicente-santiago/static/js/main.2952312f.chunk.js",
+    "main.js.map": "/miguel-vicente-santiago/static/js/main.2952312f.chunk.js.map",
     "runtime-main.js": "/miguel-vicente-santiago/static/js/runtime-main.550ae694.js",
     "runtime-main.js.map": "/miguel-vicente-santiago/static/js/runtime-main.550ae694.js.map",
-    "static/js/2.28f8de7d.chunk.js": "/miguel-vicente-santiago/static/js/2.28f8de7d.chunk.js",
-    "static/js/2.28f8de7d.chunk.js.map": "/miguel-vicente-santiago/static/js/2.28f8de7d.chunk.js.map",
+    "static/js/2.f8d15ec4.chunk.js": "/miguel-vicente-santiago/static/js/2.f8d15ec4.chunk.js",
+    "static/js/2.f8d15ec4.chunk.js.map": "/miguel-vicente-santiago/static/js/2.f8d15ec4.chunk.js.map",
     "static/js/3.6f219a1b.chunk.js": "/miguel-vicente-santiago/static/js/3.6f219a1b.chunk.js",
     "static/js/3.6f219a1b.chunk.js.map": "/miguel-vicente-santiago/static/js/3.6f219a1b.chunk.js.map",
     "index.html": "/miguel-vicente-santiago/index.html",
-    "static/css/main.2fee1254.chunk.css.map": "/miguel-vicente-santiago/static/css/main.2fee1254.chunk.css.map",
-    "static/js/2.28f8de7d.chunk.js.LICENSE.txt": "/miguel-vicente-santiago/static/js/2.28f8de7d.chunk.js.LICENSE.txt",
-    "static/media/miguelsantiago.0a6666c9.jpg": "/miguel-vicente-santiago/static/media/miguelsantiago.0a6666c9.jpg"
+    "static/css/main.406de0fb.chunk.css.map": "/miguel-vicente-santiago/static/css/main.406de0fb.chunk.css.map",
+    "static/js/2.f8d15ec4.chunk.js.LICENSE.txt": "/miguel-vicente-santiago/static/js/2.f8d15ec4.chunk.js.LICENSE.txt",
+    "static/media/miguelsantiago.0a6666c9.jpg": "/miguel-vicente-santiago/static/media/miguelsantiago.0a6666c9.jpg",
+    "static/media/piano_player.21197be1.png": "/miguel-vicente-santiago/static/media/piano_player.21197be1.png",
+    "static/media/resume.7e403727.pdf": "/miguel-vicente-santiago/static/media/resume.7e403727.pdf",
+    "static/media/task_planner.7d0ae0da.png": "/miguel-vicente-santiago/static/media/task_planner.7d0ae0da.png"
   },
   "entrypoints": [
     "static/js/runtime-main.550ae694.js",
-    "static/js/2.28f8de7d.chunk.js",
-    "static/css/main.2fee1254.chunk.css",
-    "static/js/main.d9d7f1ea.chunk.js"
+    "static/js/2.f8d15ec4.chunk.js",
+    "static/css/main.406de0fb.chunk.css",
+    "static/js/main.2952312f.chunk.js"
   ]
 }
