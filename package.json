@@ -1,7 +1,6 @@
 {
   "name": "miguel-vicente-santiago",
   "version": "0.1.0",
-  "homepage": "https://migscay.github.io/miguel-vicente-santiago",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -16,8 +15,6 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "pre-deploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
