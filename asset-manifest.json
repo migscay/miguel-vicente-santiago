@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/miguel-vicente-santiago/static/css/main.406de0fb.chunk.css",
+    "main.css": "/miguel-vicente-santiago/static/css/main.337ae2ef.chunk.css",
     "main.js": "/miguel-vicente-santiago/static/js/main.2952312f.chunk.js",
     "main.js.map": "/miguel-vicente-santiago/static/js/main.2952312f.chunk.js.map",
     "runtime-main.js": "/miguel-vicente-santiago/static/js/runtime-main.550ae694.js",
@@ -10,7 +10,7 @@
     "static/js/3.6f219a1b.chunk.js": "/miguel-vicente-santiago/static/js/3.6f219a1b.chunk.js",
     "static/js/3.6f219a1b.chunk.js.map": "/miguel-vicente-santiago/static/js/3.6f219a1b.chunk.js.map",
     "index.html": "/miguel-vicente-santiago/index.html",
-    "static/css/main.406de0fb.chunk.css.map": "/miguel-vicente-santiago/static/css/main.406de0fb.chunk.css.map",
+    "static/css/main.337ae2ef.chunk.css.map": "/miguel-vicente-santiago/static/css/main.337ae2ef.chunk.css.map",
     "static/js/2.f8d15ec4.chunk.js.LICENSE.txt": "/miguel-vicente-santiago/static/js/2.f8d15ec4.chunk.js.LICENSE.txt",
     "static/media/miguelsantiago.0a6666c9.jpg": "/miguel-vicente-santiago/static/media/miguelsantiago.0a6666c9.jpg",
     "static/media/piano_player.21197be1.png": "/miguel-vicente-santiago/static/media/piano_player.21197be1.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.550ae694.js",
     "static/js/2.f8d15ec4.chunk.js",
-    "static/css/main.406de0fb.chunk.css",
+    "static/css/main.337ae2ef.chunk.css",
     "static/js/main.2952312f.chunk.js"
   ]
 }
