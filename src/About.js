@@ -16,7 +16,8 @@ function About() {
             </div>
             <div className="about__paragraph">
                 <p>Experienced Analyst/Programmer with decades of experience. I have recently completed the Junior Web Development bootcamp by Generation Australia.
-With my knowledge and experience in coding, I can help create effective systems to help business better connect with their customers.</p>
+                   With my knowledge and experience in coding, I can help create effective systems to help business connect better with their customers. I am excited to apply my 
+                   strengths in diagnosing and developing innovative solutions.</p>
             </div>
         </div>
 )

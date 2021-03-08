@@ -16,7 +16,7 @@ function Header() {
                     <h1 className="header__title">Miguel Vicente Ortega Santiago</h1>
                 </div>                
                 <div>
-                    <h5>Junior Web Developer Javascript | JQuery | HTML/CSS | Bootstrap | NPM | Angular JS | React | GIT/Github | PHP | SQL</h5>
+                    <h5>Junior Web Developer   | Javascript | HTML/CSS | Bootstrap | NPM | Angular JS | React | GIT/Github | PHP | SQL</h5>
                 </div>                
                 <div className="header__digital">    
                     <a href="https://github.com/migscay/" target="_blank">
